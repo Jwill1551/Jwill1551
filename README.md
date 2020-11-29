@@ -9,9 +9,4 @@
 - 😁 Fun facts about me: I love God and the bible, and I like reading books, studying theology, a playing video games
 
 #### Favorite languages:
-<img src="https://img.icons8.com/color/40/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/40/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/40/000000/css3.png"/>
-<img src="https://img.icons8.com/color/40/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/40/000000/vue-js.png"/>
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/40/000000/c-sharp-logo.png"/><img src="https://img.icons8.com/color/40/000000/javascript.png"/><img src="https://img.icons8.com/color/40/000000/css3.png"/><img src="https://img.icons8.com/color/40/000000/html-5.png"/><img src="https://img.icons8.com/color/40/000000/vue-js.png"/><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
