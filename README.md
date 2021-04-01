@@ -29,5 +29,3 @@ here are just a few details about me and what I like:
 <h4 align="center"> -> Romans 1:16 <- </h4>
   
 <hr>
-  
-![Software Developer - Banner End](https://github.com/Jwill1551/GitFiles/blob/main/Images/Banners/SoftWare%20Developer%20-%20Banner%20End%202.png?raw=true)
