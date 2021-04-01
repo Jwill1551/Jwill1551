@@ -15,14 +15,15 @@ here are just a few details about me and what I like:
 - I Previously interned at Snap [Snapchat🤳], and studied web development there!
 - 😁 Fun facts about me: I like anime and I enjoy playing video games everynow and then.
 
-<p><i>To know a litte more about me check out my portfolio -> <a href="https://jwill1551.github.io/My-Portfolio/"> About Me <a></i></p>
-<p><i>My Resume is also here -> <a href="https://github.com/Jwill1551/GitFiles/blob/main/Docs/Joshua's%20SD%20Resume.pdf"> Resume </a></i></p>
-
 #### Favorite languages & frameworks:
 - C#, and Java
 - ReactJs, and Vue.Js 
 - HTML5/CSS/Javascript
 - .Net Framework, and JavaEE
+
+<h3 align="center"> Want To Know more? </h3>
+<p><i>To know a litte more about me check out my portfolio -> <a href="https://jwill1551.github.io/My-Portfolio/"> About Me <a></i></p>
+<p><i>My Resume is also here -> <a href="https://github.com/Jwill1551/GitFiles/blob/main/Docs/Joshua's%20SD%20Resume.pdf"> Resume </a></i></p>
 
 <h3 align="center"> Scripture Verse: </h3>
 <h4 align="center"> -> Romans 1:16 <- </h4>
