@@ -26,6 +26,6 @@ here are just a few details about me and what I like:
 <p><i>My Resume is also here -> <a href="https://github.com/Jwill1551/GitFiles/blob/main/Docs/Joshua's%20SD%20Resume.pdf"> Resume </a></i></p>
 
 <h3 align="center"> Scripture Verse: </h3>
-<h4 align="center"> -> Romans 1:16 <- </h4>
+<h4 align="center"> -> "For I am not ashamed of the gospel of Christ, for it is the power of God to salvation for everyone who believes, for the Jew first and also for the Greek."(Romans 1:16)  <- </h4>
   
 <hr>
