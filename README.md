@@ -1,5 +1,3 @@
-![Software Developer](https://github.com/Jwill1551/GitFiles/blob/main/Images/Banners/SoftwareDev.png?raw=true)
-
 <hr>
 
 <h2 align="center"> Hi there, I'm Joshua - A Fullstack Web Developer 🐱‍💻</h2> 
